@@ -1,1 +1,2 @@
 # Scraping-YallaKora-Data
+This is a Python code to collect data about matches played in 2023 from the YallaKora website. YallaKora is a popular Arabic-language sports news and information website that covers various sports, including football, basketball, and more. It provides news, live scores, match results, statistics, and other sports-related content for audiences interested in sports, particularly in the Arab world and the Middle East. Users can find information about football leagues, teams, players, and matches, among other sports-related topics, on YallaKora website.
